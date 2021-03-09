@@ -280,7 +280,7 @@ def draw_window(win, board, run_time, menu, music_on=False):
         hint_text = font.render("Hint", True, (0, 0, 0))
         win.blit(restart_text, (10, 560))
         win.blit(music_text, (170, 560))
-        win.blit(hint_text, (268, 560))
+        win.blit(hint_text, (265, 560))
         win.blit(time_text, (540 - 160, 560))
         board.draw(win)
 
