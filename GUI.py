@@ -354,8 +354,8 @@ def main(music_on=False):
     pygame.display.set_caption("Sudoku")
 
     songs = os.listdir('Music')                 # Initialize songs
-        if '.DS_Store' in songs:
-            songs.remove('.DS_Store')
+    if '.DS_Store' in songs:
+        songs.remove('.DS_Store')
     diff = None                                 # Initialize difficulty
     menu = True                                 # Keep track if user clicks menu button
     if menu:                                    # Menu loop
