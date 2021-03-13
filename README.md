@@ -2,7 +2,7 @@ This is my Sudoku program and I added a few complexities that made it a fun and 
 
 There are also more complex ways to generate boards without an already valid one; I tried to do that initially but was having trouble. It was only until after I finished the program I realized a small bug was messing up this attempt! I hope to re-visit that challenge in the future.
 
-This project contains a GUI made with PyGame. There are options to start a new game, get a hint, or even listen to some relaxing tunes while you play. However the coolest part is if you press space you can watch the computer solve the board, and really see how the algorithm "thinks" which is really cool!
+This project contains a GUI made with PyGame. There are options to start a new game, get a hint, or even listen to some relaxing tunes while you play. However the coolest part is if you press space you can watch the computer solve the board, and really see how the algorithm "thinks" which is really cool! I also paid particular attention to making sure the music still plays even if you start a new game, and that it will always play a different song, even if you turn the music off and turn it back on.
 
 Here is how to set it up:
 
