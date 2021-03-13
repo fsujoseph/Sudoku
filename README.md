@@ -6,7 +6,7 @@ This project contains a GUI made with PyGame. There are options to start a new g
 
 Here is how to set it up:
 
-To run script, download folder and run the GUI script.
+To run script, download the folder and run the GUI script.
 
 Press space to auto-solve and visualize the backtracking algorithm. I reccommend only doing this on the Easy difficulty as it is very time consuming on harder boards.
 
